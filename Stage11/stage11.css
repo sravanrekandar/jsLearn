@@ -1,0 +1,16 @@
+.balloon {
+    width: 50px;
+    height: 84px;
+    position: absolute;
+    background-repeat: no-repeat;
+}
+
+.ironMan {
+    background-image: url("../images/iron-man-cartoon.jpg");
+    background-size: contain;
+}
+
+.captainAmerica {
+    background-image: url("../images/captain-america-cartoon.jpg");
+    background-size: cover;
+}
